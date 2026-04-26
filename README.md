@@ -1,4 +1,4 @@
-# U-livio Facebook Group Scraper
+# Facebook Group Scraper
 
 A headless/headful browser scraper built with Playwright and Python to extract lead data from Facebook housing groups (like Flat & Flatmates). It uses the OpenAI API to structure messy post text into clean data (rent, flat size, location, etc.) for U-livio's growth pipeline.
 
