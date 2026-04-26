@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Playwright Browser Profile
+playwright_profile/
+
+# Output Data
+*.csv
+*.xlsx
+ulivio_leads.csv
+
+# macOS specifics
+.DS_Store
